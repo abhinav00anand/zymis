@@ -252,7 +252,7 @@ Install Zymis from PyPI:
 pip install zymis
 ```
 
-To include development and dashboard dependencies:
+To include development dependencies:
 
 ```bash
 pip install "zymis[dev]"

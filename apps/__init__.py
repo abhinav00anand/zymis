@@ -1,1 +1,1 @@
-"""AISwarm application entry points — API, CLI, Dashboard, Telegram bot."""
+"""AISwarm application entry points — API, CLI, Telegram bot."""

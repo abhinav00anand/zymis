@@ -1,4 +1,4 @@
-"""Dashboard data aggregator — computes summary metrics for the API/UI."""
+"""Telemetry metrics aggregator — computes summary metrics from tasks."""
 
 from __future__ import annotations
 
